@@ -9,7 +9,7 @@
   
   inputs.src-triplets-0_0_4.flake = false;
   inputs.src-triplets-0_0_4.owner = "linksplatform";
-  inputs.src-triplets-0_0_4.ref   = "refs/tags/0.0.4";
+  inputs.src-triplets-0_0_4.ref   = "0_0_4";
   inputs.src-triplets-0_0_4.repo  = "Data.Triplets";
   inputs.src-triplets-0_0_4.type  = "github";
   
