@@ -11,6 +11,7 @@
   inputs.src-triplets-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-triplets-0_1_0.owner = "linksplatform";
   inputs.src-triplets-0_1_0.repo  = "Data.Triplets";
+  inputs.src-triplets-0_1_0.dir   = "";
   inputs.src-triplets-0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
